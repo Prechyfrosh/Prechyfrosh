@@ -22,7 +22,7 @@
 
 ### 📂 Featured Cybersecurity Labs & Projects
 * **Coursera / Google Cybersecurity Labs:** Hands-on projects covering network security, incident reporting, and security auditing (in progress).
-
+* [Botium Toys Security Audit - Controls & Compliance Checklist](Controls%20and%20compliance%20checklist.pdf)
 ---
 
 ### 📬 Connect with Me
